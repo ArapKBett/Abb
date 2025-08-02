@@ -1,0 +1,12 @@
+[
+    {
+        "username": "account1_username",
+        "password": "account1_password",
+        "last_used": null
+    },
+    {
+        "username": "account2_username",
+        "password": "account2_password",
+        "last_used": null
+    }
+]
