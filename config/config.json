@@ -1,0 +1,19 @@
+{
+    "discord": {
+        "bot_token": "YOUR_BOT_TOKEN",
+        "channel_id": "YOUR_CHANNEL_ID",
+        "webhook_url": "https://discord.com/api/webhooks/your_webhook_id/your_webhook_token"
+    },
+    "roblox": {
+        "game_id": "126884695634066",
+        "lua_script_path": "scripts/buy_egg.lua"
+    },
+    "monitoring": {
+        "check_interval": 300,
+        "stock_api_url": "https://www.roblox.com/games/126884695634066"
+    },
+    "logging": {
+        "log_file": "logs/monitoring.log",
+        "log_level": "INFO"
+    }
+}
